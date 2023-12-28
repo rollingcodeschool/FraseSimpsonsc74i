@@ -1,0 +1,26 @@
+body{
+    background-color: #39559f;
+}
+
+.card{
+    background: transparent;
+    border: 2px solid yellow;
+    color: white;
+  }
+  
+  .frase{
+    background: #ffec80;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  .btnFrase{
+    width: 200px;
+    background-color: #ff6b00;
+    border: 1px solid #ff6b00;
+  }
+  
+  .btnFrase:hover{
+    background-color: yellowgreen;
+  }
